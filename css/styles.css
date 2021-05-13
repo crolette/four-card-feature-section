@@ -135,7 +135,7 @@ p{
 .card{
 	background: #fff;
 	border-radius: 8px;
-	padding: 16px 32px 32px 16px;
+	padding: 32px;
 	box-shadow: 0 2px 10px var(--light);
 	border-top: 4px solid;
 }
